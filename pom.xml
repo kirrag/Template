@@ -6,10 +6,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ru.netology</groupId>
-	<artifactId>Template</artifactId>
+	<artifactId>DeliveryRobot</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
-	<name>Template</name>
+	<name>DeliveryRobot</name>
 	<url>http://netology.ru</url>
 
 	<properties>
